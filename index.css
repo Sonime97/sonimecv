@@ -24,7 +24,8 @@ nav { background-color: #ebbd3f;
        height: 210px;
        background-color: #ebbd3f;
        color: white;
-       padding-top: 30px }
+       padding-top: 30px;
+       margin-bottom: 0}
 .about {margin-top: 20px;
 
        color: white}
