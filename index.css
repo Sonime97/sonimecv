@@ -42,9 +42,10 @@ li {color: white;
                       margin-right: 20px}
 .icon-twitter-sign {color: white;
               margin-right: 20px}
-.imgcontainer {width : 100px;
+.imgcontainer {width : 200px;
               height: 200px;
               margin: auto auto;
+              padding: auto auto;
               }
 .myface {width: 100%;
          width: 200px;
